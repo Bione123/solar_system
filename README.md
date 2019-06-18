@@ -3,9 +3,6 @@
 Project source can be downloaded from https://github.com/Bione123/solar_system/
 -----------
 
-Report bugs at: fabio.pergamiferoldi@gmail.com
------------
-
 Author & Contributor list
 -----------
 Fabio Pergami Feroldi
