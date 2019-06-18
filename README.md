@@ -1,5 +1,4 @@
 # solar_system
-==========
 
 Project source can be downloaded from https://github.com/Bione123/solar_system/
 -----------
@@ -69,7 +68,7 @@ class Planet {
 ```
 If you're interested in OOP, start by watching this video: https://www.youtube.com/watch?v=8yjkWGRlUmY
 
-#Useful sites
+# Useful sites
 
 Image textures: http://planetpixelemporium.com
 ---------
