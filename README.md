@@ -48,6 +48,8 @@ OOP - Object Oriented Programming
 
 Processing uses Java, which is powerful because of the OOP.
 
+For the most part, OOP is advantageous because it allows you to re-use blocks of code without re-writing them
+
 I created a class "Planet" with some properties such as radius, distance from the sun, and angles, as well as methods, such as the constructor function that creates instances of the class, for example
 
 ```
